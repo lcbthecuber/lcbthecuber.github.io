@@ -1,13 +1,14 @@
 body { 
 background-color: rgb(25, 117, 255);
 color: rgb(0, 47, 255);
-font-size: 50px;
+font-size: 200px;
 }
 
 p {
     font-size: 55px;
     color: rgb(255, 255, 255);
     text-align: left;
+    
     
 }
 
@@ -22,7 +23,7 @@ header {
 
   h1 {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 50;
+    font-size: 2000px;
     color: black;
     text-align: center;
     text-shadow: 10px;
@@ -64,4 +65,11 @@ p1 {
 }
 .center {
   text-align: center;
+}
+h4{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-shadow: 10px;
 }
